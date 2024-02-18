@@ -41,6 +41,7 @@
 | f | f |  | <ins>**F**</ins>ada | [**f** a d ax] |
 | g | g |  | <ins>**G**</ins>ato | [**g** a t u] |
 | h | h |  | Ca<ins>**rr**</ins>o | [k a **h** u] |
+| hr | R | Regional | <ins>**R**</ins>anço | [**hr** a n s u] |
 | j | Z |  | <ins>**J**</ins>á | [**j** a] |
 | k | k |  | <ins>**C**</ins>or | [**k** o h] |
 | l | l |  | <ins>**L**</ins>ágrima | [**l** a g r i m a] |
