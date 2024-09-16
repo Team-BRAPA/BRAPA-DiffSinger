@@ -19,7 +19,6 @@
 | u | u | | S<ins>**u**</ins>l | [s **u** w] |
 | un | u~ | | M<ins>**un**</ins>do | [m **un** d u] |
 | u0 | U | Redução | Solt<ins>**o**</ins> | [s o w t **u0**] |
-| rh | @\` | Regional (1 & 10) | Ca<ins>**r**</ins>ne | [k a **rh** n i]  |
 
 *\[i0] e \[u0] geralmente encontrados em finais de palavras ou em palavras e frases com sílabas repetitivas</br>
 *Fonemas na descrição segue o padrão X-Sampa</br>
@@ -52,6 +51,7 @@
 | nh | J |  | So<ins>**nh**</ins>o | [s o **nh** u] |
 | p | p |  | <ins>**P**</ins>ipoca | [**p** i **p** o c a] |
 | r | 4 |  | Pa<ins>**r**</ins>á | [p a **r** a] |
+| rh | @\` | Regional (1 & 10) | Ca<ins>**r**</ins>ne | [k a **rh** n i]  |
 | rr | r | Regional | Pa<ins>**r**</ins>te | [p a **rr** t e] |
 | rw | r\ | Regional | Amo<ins>**r**</ins> | [a m o **rw**] |
 | s | s |  | <ins>**S**</ins>orte | [**s** oh x ch i] |
