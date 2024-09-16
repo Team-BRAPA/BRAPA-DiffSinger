@@ -61,6 +61,8 @@
 | x | x |  | Pa<ins>**r**</ins>ti<ins>**r**</ins> | [p a **x** ch i **x**] |
 | z | z |  | <ins>**Z**</ins>ebra | [**z** e b r ax] |
 
+*\[rh] é uma vogal rótica, porém consideramos como consoante pela sua característica e também como o DiffSinger lida com fonética. Para mais informações sobre este fonema, leia: [R-colored vowel](https://en.wikipedia.org/wiki/R-colored_vowel)
+
 ## Outros / Adicionais
 | Fonema | Exemplo | Descrição |
 |--|--|--|
