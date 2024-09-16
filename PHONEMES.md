@@ -19,6 +19,7 @@
 | u | u | | S<ins>**u**</ins>l | [s **u** w] |
 | un | u~ | | M<ins>**un**</ins>do | [m **un** d u] |
 | u0 | U | Reduction | Solt<ins>**o**</ins> | [s o w t **u0**] |
+| rh | @\` | Regional (1 & 10) | Ca<ins>**r**</ins>ne | [k a **rh** n i]  |
 
 *\[i0] and \[u0] usually found at the ends of words or in words and phrases with repetitive syllables</br>
 *Phonemes in the description follow the X-Sampa standard</br>
@@ -51,7 +52,6 @@
 | nh | J |  | So<ins>**nh**</ins>o | [s o **nh** u] |
 | p | p |  | <ins>**P**</ins>ipoca | [**p** i **p** o c a] |
 | r | 4 |  | Pa<ins>**r**</ins>á | [p a **r** a] |
-| rh | @\` | Regional (1 & 10) | Ca<ins>**r**</ins>ne | [k a **rh** n i]  |
 | rr | r | Regional | Pa<ins>**r**</ins>te | [p a **rr** t e] |
 | rw | r\ | Regional | Amo<ins>**r**</ins> | [a m o **rw**] |
 | s | s |  | <ins>**S**</ins>orte | [**s** oh x ch i] |
@@ -60,8 +60,6 @@
 | v | v |  | <ins>**V**</ins>aso | [**v** a z u0] |
 | x | x |  | Pa<ins>**r**</ins>ti<ins>**r**</ins> | [p a **x** ch i **x**] |
 | z | z |  | <ins>**Z**</ins>ebra | [**z** e b r ax] |
-
-*\[rh] is a rhotic vowel, but we consider it a consonant due to its characteristics and also because how DiffSinger handles phonetics. For more information about this phoneme, read: [R-colored vowel](https://en.wikipedia.org/wiki/R-colored_vowel)
 
 ## Others / Additionals
 | Phonemes | Usage | Description |
