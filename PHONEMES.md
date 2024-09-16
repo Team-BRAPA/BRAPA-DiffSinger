@@ -61,6 +61,8 @@
 | x | x |  | Pa<ins>**r**</ins>ti<ins>**r**</ins> | [p a **x** ch i **x**] |
 | z | z |  | <ins>**Z**</ins>ebra | [**z** e b r ax] |
 
+*\[rh] is a rhotic vowel, but we consider it a consonant due to its characteristics and also because how DiffSinger handles phonetics. For more information about this phoneme, read: [R-colored vowel](https://en.wikipedia.org/wiki/R-colored_vowel)
+
 ## Others / Additionals
 | Phonemes | Usage | Description |
 | -- | -- | -- |
