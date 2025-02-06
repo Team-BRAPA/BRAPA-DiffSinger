@@ -65,10 +65,10 @@
 *Numbers in parentheses represent the numbering of regional accents found in Brazil: [Dialects of the Portuguese Language (PT-BR)](https://pt.wikipedia.org/wiki/Dialetos_da_língua_portuguesa#/media/Ficheiro:Br.pt.png) / [Portuguese dialects (English)](https://en.wikipedia.org/wiki/Portuguese_dialects)
 
 ## Others / Additionals
-| Phonemes | Usage | Description |
-| -- | -- | -- |
-| SP | Silence | Used in unsung/silent areas |
-| AP | Aspiration | Breaths |
-| cl | Occlusion / Glottal stop | Occlusion of a plosive syllable, when you hold the syllable before pronouncing, common in Japanese. Can also be used as a glottal stop between vowels |
-| vf | Vocal Fry | A low, harsh sound that occupies the vocal range below the modal voice |
-| xxx | Trash | Used to remove phonemes that are not on the list above or small errors
+| Phonemes | Description |
+| -- | -- |
+| SP | Silence - Used in unsung/silent areas |
+| AP | Aspiration - Breaths |
+| cl | Occlusion / Glottal stop - Occlusion of a plosive syllable, when you hold the syllable before pronouncing, common in Japanese. Can also be used as a glottal stop between vowels |
+| vf | Vocal Fry - A low, harsh sound that occupies the vocal range below the modal voice |
+| xxx | Trash - Used to remove phonemes that are not on the list above or small errors
