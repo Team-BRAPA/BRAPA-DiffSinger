@@ -9,7 +9,7 @@
 | e | e | [Close-mid front unrounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel) | <ins>**E**</ins>xausto | [<ins>**e**</ins> z a w s t u] | |
 | en | e~ | [/e/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | T<ins>**em**</ins>po | [t <ins>**en**</ins> p u] | |
 | eh | E | [Open-mid front unrounded vowel](https://en.wikipedia.org/wiki/Open-mid_front_unrounded_vowel) | At<ins>**é**</ins> | [a t <ins>**eh**</ins>] | |
-| ae | { | [Near-open front unrounded vowel](https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel) | P<ins>**e**</ins>dra | [p <ins>**ae**</ins> d r a] | |
+|| ae | { | [Near-open front unrounded vowel](https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel) | P<ins>**e**</ins>dra | [p <ins>**ae**</ins> d r a] | |
 | aen | {~ | [/{/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | P<ins>**e**</ins>nha | [p <ins>**aen**</ins> nh a] | Regional (13 & 3) |
 | i | i | [Close front unrounded vowel](https://en.wikipedia.org/wiki/Close_front_unrounded_vowel) | F<ins>**i**</ins>go | [f <ins>**i**</ins> g u] | |
 | in | i~ | [/i/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | S<ins>**im**</ins>ples | [s <ins>**in**</ins> p l i s] | |
@@ -63,3 +63,12 @@
 
 *Phonemes in the description follow the X-Sampa standard</br>
 *Numbers in parentheses represent the numbering of regional accents found in Brazil: [Dialects of the Portuguese Language (PT-BR)](https://pt.wikipedia.org/wiki/Dialetos_da_língua_portuguesa#/media/Ficheiro:Br.pt.png) / [Portuguese dialects (English)](https://en.wikipedia.org/wiki/Portuguese_dialects)
+
+## Others / Additionals
+| Phonemes | Usage | Description |
+| -- | -- | -- |
+| SP | Silence | Used in unsung/silent areas |
+| AP | Aspiration | Breaths |
+| cl | Occlusion / Glottal stop | Occlusion of a plosive syllable, when you hold the syllable before pronouncing, common in Japanese. Can also be used as a glottal stop between vowels |
+| vf | Vocal Fry | A low, harsh sound that occupies the vocal range below the modal voice |
+| xxx | Trash | Used to remove phonemes that are not on the list above or small errors
