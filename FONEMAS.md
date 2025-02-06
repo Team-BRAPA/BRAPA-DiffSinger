@@ -64,10 +64,10 @@
 *Números entre parentes representam a numeração dos sotaques regionais encontrados no Brasil: [Dialetos da Língua Portuguesa](https://pt.wikipedia.org/wiki/Dialetos_da_língua_portuguesa#/media/Ficheiro:Br.pt.png)
 
 ## Outros / Adicionais
-| Fonema | Exemplo | Descrição |
-|--|--|--|
-| SP | Silêncio | Usado em áreas não cantadas/em silêncio |
-| AP | Breath | Respiração |
-| cl | Oclusão / Parada Glotal | Oclusão de uma sílaba plosiva, quando você segura a sílaba antes de pronunciar, comum no Japonês. Também pode ser usado como parada glotal entre vogais|
-| vf | Vocal Fry (Voz Crepitante)| Um som baixo e áspero que ocupa a extensão vocal abaixo da voz modal |
-| xxx | Lixo | Utilizado para retirar fonemas que não estão na lista acima ou pequenos erros |
+| Fonema | Descrição |
+|--|--|
+| SP | Usado em áreas não cantadas/em silêncio |
+| AP | Respiração |
+| cl | Oclusão / Parada Glotal - Oclusão de uma sílaba plosiva, quando você segura a sílaba antes de pronunciar, comum no Japonês. Também pode ser usado como parada glotal entre vogais|
+| vf | Vocal Fry (Voz Crepitante) - Um som baixo e áspero que ocupa a extensão vocal abaixo da voz modal |
+| xxx | Lixo - Utilizado para retirar fonemas que não estão na lista acima ou pequenos erros |
