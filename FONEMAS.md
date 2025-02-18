@@ -5,7 +5,7 @@
 |--|--|--|--|--|--|
 | a | a | [Vogal anterior aberta não arredondada](https://en.wikipedia.org/wiki/Open_front_unrounded_vowel) | <ins>**A**</ins>migo | [<ins>**a**</ins> m i g u] | |
 | ax | 6 | [Xuá aberta](https://en.wikipedia.org/wiki/Near-open_central_vowel) | C<ins>**â**</ins>mera | [k <ins>**ax**</ins> m e r a] | |
-| an | 6~ | [/a/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | Am<ins>**an**</ins>te | [a m <ins>**an**</ins> ch i] |
+| an | 6~ | [/6/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | Am<ins>**an**</ins>te | [a m <ins>**an**</ins> ch i] |
 | e | e | [Vogal anterior semifechada não arredondada](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel) | <ins>**E**</ins>xausto | [<ins>**e**</ins> z a w s t u] | |
 | en | e~ | [/e/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | T<ins>**em**</ins>po | [t <ins>**en**</ins> p u] | |
 | eh | E | [Vogal frontal semiaberta não arredondada](https://en.wikipedia.org/wiki/Open-mid_front_unrounded_vowel) | At<ins>**é**</ins> | [a t <ins>**eh**</ins>] | |
